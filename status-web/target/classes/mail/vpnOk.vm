@@ -1,0 +1,14 @@
+<html>
+	<body>
+		<p>
+			A conexão com a VPN da Porto foi estabelecida em: $dateFormat.formatCalendar('dd/MM/yyyy HH:mm:ss', $servico.dataInicio)
+		</p>
+		<p>
+			Acompanhe o status acessando <a  href="http://sigfornax.fornax.com.br:8095/status">http://sigfornax.fornax.com.br:8095/status</a>
+		</p>
+		<p>
+			Atenciosamente,<br/>
+		</p>
+		<img src="cid:logo" style="width:100px;height:55px"/>
+	</body>
+<html>

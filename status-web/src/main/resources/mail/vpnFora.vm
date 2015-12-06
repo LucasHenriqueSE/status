@@ -1,0 +1,14 @@
+<html>
+	<body>
+		<p>
+			Estamos sem conexão com a VPN da Porto Seguro desde: $dateFormat.formatCalendar('dd/MM/yyyy HH:mm:ss', $servico.dataFim)
+		</p>
+		<p>
+			Acompanhe o status acessando <a  href="http://sigfornax.fornax.com.br:8095/status">http://sigfornax.fornax.com.br:8095/status</a>
+		</p>
+		<p>
+			Atenciosamente,<br/>
+		</p>
+		<img src="cid:logo" style="width:100px;height:55px"/>
+	</body>
+<html>
